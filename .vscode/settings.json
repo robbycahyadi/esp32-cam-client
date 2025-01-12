@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "camera_pins.h": "c",
+        "esp_camera.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0"
+}
